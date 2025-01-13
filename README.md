@@ -1,4 +1,4 @@
-# Hi there, I'm BramWerink! 👋
+# Hi there, I'm Bram Werink! 👋
 
 
 ## About Me
