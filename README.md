@@ -9,4 +9,4 @@ I'm a Product designer with a lot of experience in UX/UI designs & projects. I m
 - 👥 [LinkedIn](https://www.linkedin.com/in/bramwerink/)
 
 
-![BramWerink's GitHub stats](https://github-readme-stats.vercel.app/api?username=BramWerink&show_icons=true&theme=radical)
+[BramWerink's GitHub stats](https://github-readme-stats.vercel.app/api?username=BramWerink&show_icons=true&theme=radical)
